@@ -1,0 +1,51 @@
+
+    {
+        "name_en": "Junior Back-End JAVA Developer",
+        "name_th": "นักพัฒนาโปรแกรม Backend ภาษา Java",
+        "salary_min": "18000",
+        "salary_max": "30000",
+        "benefit": "- ประกันสุขภาพ - ประกันสังคม - วันหยุด 15 วัน - อาหารเที่ยงฟรี - เครื่องดื่มและขนมไม่อั้น",
+        "description": "เรากำลังมองหา developer มีประสบการณ์กับ JAVA มาบ้างหรือ​ programming language อื่นๆ​ แต่ไม่ต้องเป็น​ expert การทำงานในตำแหน่งนี้คุณจะได้มีโอกาสใช้เทคโนโลยีใหม่ๆ และการทำงานก็เปิดกว้างในการแสดงความคิดเห็นต่อโซลูชั่นต่างๆ เทคโนโลยีที่พวกเราใช้ตอนนี้ก็มี เช่น JAVA, Spring Boot, MySQL, Github, ElasticSearch โดยที่ระบบทั้งหมดจะวางไว้ที่ Amazon Webservice(AWS) การทำงานกับพวกเราจะได้เรียนรู้ Infrastructure และ DevOps skills ต่างๆด้วยเช่น EC2, S3, RDS, Simple Queue Service(SQS), Elastic Load Balancing (ELB), AWS CodeDeploy",
+        "summarize": [
+            "Experience : 1 - 3 years", "Education: Bachelor Degree or above", "Good Comnucation in team"
+        ],
+        "jobFunction": "Software Developer",
+        "subJobFunction" :"Programming / Software Development",
+        "industry" : "Information Technology",
+        "location" : "Bangkok",
+        "subLocation" : "Bangkhen",
+        "employementTerms" : {
+            "type" : "Full Time",
+            "salaryDetail" : {
+                "type" : "Monthly",
+                "from" : "5,000",
+                "to" : "9,999"
+            },
+            "additional" : "Salary Negotiable",
+            "isShowSalary" : true
+        },
+        "benefits" : [
+            "Dental insurance",
+            "Life insurance",
+            "Work from home"
+        ],
+        "careerLevel" : "Entry Level",
+        "minEducation" : "Degree",
+        "minExperience" : "1",
+        "isRecentGraduate" : true,
+        "keywords" : [
+            "หางาน","จบใหม่"
+        ],
+        "jobReference": "00000",
+        "tags" : [
+            "Backend"
+        ],
+        "candidateAllowWorkInCoutry" : {
+            "status" : true,
+            "country" : "Thailand"
+        },
+        "candidateMinimumEducation":{
+            "status" : true,
+            "education" : "Degree"
+        }
+    }
