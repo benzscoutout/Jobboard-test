@@ -5,6 +5,7 @@
         "cleanup": "rm -fr mochawesome-report/*.html; rm -fr mochawesome-report/*.json; touch mochawesome-report/output.json",
         "run:record": "cypress run --record --key 9c51c356-c06c-4f1b-b14f-4d5f98f07be3",
         "jobsdb": "cypress open --config baseUrl=https://th.jobsdb.com/en-th/cms/employer",
+        "jobthai": "cypress open --config baseUrl=https://www.jobthai.com/th/jobpost",
         "blognone": "cypress open --config baseUrl=https://jobs.blognone.com/employers",
         "localhost": "cypress run --reporter mochawesome --spec 'cypress/integration/linejobs/employers/register.js' --config baseUrl=https://d1r6mopz5aj41l.cloudfront.net",
         "merge": "./node_modules/.bin/mochawesome-merge --reportDir mochawesome-report > mochawesome-report/output.json",
@@ -14,7 +15,7 @@
         "check_email_valid_benz_mac": "node node_modules/gmail-tester/init.js /Users/benzscoutout/Ikki/credentials.json gmail_token.json benz@scoutout.net"
     },
     "dependencies": {
-        "cypress": "^3.3.1",
+        "cypress": "^3.6.1",
         "cypress-file-upload": "^3.1.1",
         "cypress-slack-reporter": "0.0.2",
         "fs-extra": "^7.0.1",

@@ -4,6 +4,14 @@
         "name_th": "นักพัฒนาโปรแกรม Backend ภาษา Java",
         "salary_min": "18000",
         "salary_max": "30000",
+        "position" : "1",
+        "contact" : {
+            "name" : "https://scoutout.co/career/ScoutOut",
+            "tel" : "02 038 2639",
+            "email" : "team@scoutout.net",
+            "lineId": "@ScoutOut",
+            "address" : "บริษัทจัดหางาน สเกาท์เอาท์ จำกัด สำนักงานใหญ่ 597/5 ถนนสุขุมวิท ห้อง 204 ชั้น2 "
+        },
         "benefit": "- ประกันสุขภาพ - ประกันสังคม - วันหยุด 15 วัน - อาหารเที่ยงฟรี - เครื่องดื่มและขนมไม่อั้น",
         "description": "เรากำลังมองหา developer มีประสบการณ์กับ JAVA มาบ้างหรือ​ programming language อื่นๆ​ แต่ไม่ต้องเป็น​ expert การทำงานในตำแหน่งนี้คุณจะได้มีโอกาสใช้เทคโนโลยีใหม่ๆ และการทำงานก็เปิดกว้างในการแสดงความคิดเห็นต่อโซลูชั่นต่างๆ เทคโนโลยีที่พวกเราใช้ตอนนี้ก็มี เช่น JAVA, Spring Boot, MySQL, Github, ElasticSearch โดยที่ระบบทั้งหมดจะวางไว้ที่ Amazon Webservice(AWS) การทำงานกับพวกเราจะได้เรียนรู้ Infrastructure และ DevOps skills ต่างๆด้วยเช่น EC2, S3, RDS, Simple Queue Service(SQS), Elastic Load Balancing (ELB), AWS CodeDeploy",
         "summarize": [
